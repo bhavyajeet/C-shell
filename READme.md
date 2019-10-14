@@ -113,7 +113,8 @@ arguments can be given in any order and the command can be of any number of word
 
 19) jobs.c :- contains the jobs() function , kjobs() function , fg() function and the checkallkill() function 
 handles the fg commmand , kjob command ,and jobs commad 
-**FG Feature - if no argument is given the process on top of the jobs is taken as argument 
+**FG Feature** \
+- if no argument is given the process on top of the jobs is taken as argument 
 
 
 Incase the prompt doesn't appear after a background process is terminated or for any other reason, press ENTER.
